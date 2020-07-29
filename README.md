@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Charlotte 👋
+
+![Charlotte Skinner - Full Stack Developer](https://github.com/charlotteskinner90/charlotteskinner90/blob/master/header.png)
 
 <!--
 **charlotteskinner90/charlotteskinner90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
