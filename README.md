@@ -1,5 +1,3 @@
-# Hi, I'm Charlotte 👋
-
 ![Charlotte Skinner - Full Stack Developer](https://github.com/charlotteskinner90/charlotteskinner90/blob/master/header1.png)
 
 <!--
