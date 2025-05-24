@@ -37,6 +37,15 @@
 
 ---
 
+### 📝 Latest Blog Posts
+
+- [A Guide to Creating Accessible Web Experiences](https://charlotteskinner.dev/posts/web-accessibility)
+- [What Makes an Effective Engineering Team Lead?](https://charlotteskinner.dev/posts/effective-engineering-leadership)
+
+Read more on [charlotteskinner.dev](https://charlotteskinner.dev/)
+
+---
+
 ### 📜 Certifications
 
 - 🏅 [Diploma in Full Stack Software Development – Code Institute](https://www.credential.net/0b9ttxim#acc.nvjPcAhl)
