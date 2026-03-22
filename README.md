@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working as a **Senior Frontend Developer** at [The Student Room](https://www.thestudentroom.co.uk/), the UK's largest student community
+- 🔭 I’m currently working as a **Senior Product Engineer** at [ProblemShared](https://www.problemshared.net/), providing online mental health care and neurodevelopmental assessments and support.
 - 🧠 Frontend is my playground — **React**, **TypeScript**, **React Native**, **Next.js**
 - 🌐 Backend experience with **Node.js**, **Ruby on Rails**, **Python (Flask & Django)** and **GraphQL** 
 - 💾 Also comfortable with **MySQL**, **PostgreSQL**, **MongoDB**, and cloud platforms like **AWS**
